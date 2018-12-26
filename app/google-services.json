@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "717180817827",
+    "firebase_url": "https://productivityapp-ababd.firebaseio.com",
+    "project_id": "productivityapp-ababd",
+    "storage_bucket": "productivityapp-ababd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717180817827:android:70e62da750649532",
+        "android_client_info": {
+          "package_name": "com.tracker.fitness.productivityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717180817827-bpc8bpefn5a5ehjrc5sd0909dfhbskpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUF6o_Fk9pXbj76kkB1r7j1V_VtWAM7K0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
